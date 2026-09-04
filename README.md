@@ -1,9 +1,12 @@
 # ♻️ PlasticDetect AI
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-2ea44f?style=for-the-badge&logo=github)](https://omukinkar18-hub.github.io/plasticdetect-ai/)
 [![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/js)
 [![Teachable Machine](https://img.shields.io/badge/Google_Teachable_Machine-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://teachablemachine.withgoogle.com/)
 [![PWA](https://img.shields.io/badge/PWA-Ready-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+> 🚀 **Live Web App:** [https://omukinkar18-hub.github.io/plasticdetect-ai/](https://omukinkar18-hub.github.io/plasticdetect-ai/)
 
 An intelligent, privacy-first **Progressive Web Application (PWA)** that detects and classifies plastic waste categories in real-time directly on your mobile device using **TensorFlow.js** and **MobileNetV2**.
 
